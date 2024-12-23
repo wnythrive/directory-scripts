@@ -1,4 +1,3 @@
-<script defer>
 document.addEventListener('DOMContentLoaded', function () {
   // Combine fs-cmsfilter-complete and social-share logic
   document.addEventListener('fs-cmsfilter-complete', () => {
@@ -93,4 +92,3 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
-</script>
