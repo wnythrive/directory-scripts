@@ -1,0 +1,9 @@
+<style>
+.categories_item, .thrive_nest-item {
+  display: none;
+}
+.categories_list .categories_item:first-child,
+.thrive_nest-list .thrive_nest-item:first-child {
+  display: block;
+}
+</style>
